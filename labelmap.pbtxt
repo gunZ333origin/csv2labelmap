@@ -1,0 +1,631 @@
+
+item {
+    id: 0
+    name: 'GOOD MORNING'
+    category: 'GREETING'
+}
+        
+item {
+    id: 1
+    name: 'GOOD AFTERNOON'
+    category: 'GREETING'
+}
+        
+item {
+    id: 2
+    name: 'GOOD EVENING'
+    category: 'GREETING'
+}
+        
+item {
+    id: 3
+    name: 'HELLO'
+    category: 'GREETING'
+}
+        
+item {
+    id: 4
+    name: 'HOW ARE YOU'
+    category: 'GREETING'
+}
+        
+item {
+    id: 5
+    name: 'IM FINE'
+    category: 'GREETING'
+}
+        
+item {
+    id: 6
+    name: 'NICE TO MEET YOU'
+    category: 'GREETING'
+}
+        
+item {
+    id: 7
+    name: 'THANK YOU'
+    category: 'GREETING'
+}
+        
+item {
+    id: 8
+    name: 'YOURE WELCOME'
+    category: 'GREETING'
+}
+        
+item {
+    id: 9
+    name: 'SEE YOU TOMORROW'
+    category: 'GREETING'
+}
+        
+item {
+    id: 10
+    name: 'UNDERSTAND'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 11
+    name: 'DON’T UNDERSTAND'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 12
+    name: 'KNOW'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 13
+    name: 'DON’T KNOW'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 14
+    name: 'NO'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 15
+    name: 'YES'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 16
+    name: 'WRONG'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 17
+    name: 'CORRECT'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 18
+    name: 'SLOW'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 19
+    name: 'FAST'
+    category: 'SURVIVAL'
+}
+        
+item {
+    id: 20
+    name: 'ONE'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 21
+    name: 'TWO'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 22
+    name: 'THREE'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 23
+    name: 'FOUR'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 24
+    name: 'FIVE'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 25
+    name: 'SIX'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 26
+    name: 'SEVEN'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 27
+    name: 'EIGHT'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 28
+    name: 'NINE '
+    category: 'NUMBER'
+}
+        
+item {
+    id: 29
+    name: 'TEN'
+    category: 'NUMBER'
+}
+        
+item {
+    id: 30
+    name: 'JANUARY'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 31
+    name: 'FEBRUARY'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 32
+    name: 'MARCH'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 33
+    name: 'APRIL'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 34
+    name: 'MAY'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 35
+    name: 'JUNE'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 36
+    name: 'JULY'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 37
+    name: 'AUGUST'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 38
+    name: 'SEPTEMBER'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 39
+    name: 'OCTOBER'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 40
+    name: 'NOVEMBER'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 41
+    name: 'DECEMBER'
+    category: 'CALENDAR'
+}
+        
+item {
+    id: 42
+    name: 'MONDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 43
+    name: 'TUESDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 44
+    name: 'WEDNESDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 45
+    name: 'THURSDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 46
+    name: 'FRIDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 47
+    name: 'SATURDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 48
+    name: 'SUNDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 49
+    name: 'TODAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 50
+    name: 'TOMORROW'
+    category: 'DAYS'
+}
+        
+item {
+    id: 51
+    name: 'YESTERDAY'
+    category: 'DAYS'
+}
+        
+item {
+    id: 52
+    name: 'FATHER'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 53
+    name: 'MOTHER'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 54
+    name: 'SON'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 55
+    name: 'DAUGHTER'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 56
+    name: 'GRANDFATHER'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 57
+    name: 'GRANDMOTHER'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 58
+    name: 'UNCLE'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 59
+    name: 'AUNTIE'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 60
+    name: 'COUSIN'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 61
+    name: 'PARENTS'
+    category: 'FAMILY'
+}
+        
+item {
+    id: 62
+    name: 'BOY'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 63
+    name: 'GIRL'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 64
+    name: 'MAN'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 65
+    name: 'WOMAN'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 66
+    name: 'DEAF'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 67
+    name: 'HARD OF HEARING'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 68
+    name: 'WEELCHAIR PERSON'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 69
+    name: 'BLIND'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 70
+    name: 'DEAF BLIND'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 71
+    name: 'MARRIED'
+    category: 'RELATIONSHIPS'
+}
+        
+item {
+    id: 72
+    name: 'BLUE'
+    category: 'COLOR'
+}
+        
+item {
+    id: 73
+    name: 'GREEN'
+    category: 'COLOR'
+}
+        
+item {
+    id: 74
+    name: 'RED'
+    category: 'COLOR'
+}
+        
+item {
+    id: 75
+    name: 'BROWN'
+    category: 'COLOR'
+}
+        
+item {
+    id: 76
+    name: 'BLACK'
+    category: 'COLOR'
+}
+        
+item {
+    id: 77
+    name: 'WHITE'
+    category: 'COLOR'
+}
+        
+item {
+    id: 78
+    name: 'YELLOW'
+    category: 'COLOR'
+}
+        
+item {
+    id: 79
+    name: 'ORANGE'
+    category: 'COLOR'
+}
+        
+item {
+    id: 80
+    name: 'GRAY'
+    category: 'COLOR'
+}
+        
+item {
+    id: 81
+    name: 'PINK'
+    category: 'COLOR'
+}
+        
+item {
+    id: 82
+    name: 'VIOLET'
+    category: 'COLOR'
+}
+        
+item {
+    id: 83
+    name: 'LIGHT'
+    category: 'COLOR'
+}
+        
+item {
+    id: 84
+    name: 'DARK'
+    category: 'COLOR'
+}
+        
+item {
+    id: 85
+    name: 'BREAD'
+    category: 'FOOD'
+}
+        
+item {
+    id: 86
+    name: 'EGG'
+    category: 'FOOD'
+}
+        
+item {
+    id: 87
+    name: 'FISH'
+    category: 'FOOD'
+}
+        
+item {
+    id: 88
+    name: 'MEAT'
+    category: 'FOOD'
+}
+        
+item {
+    id: 89
+    name: 'CHICKEN'
+    category: 'FOOD'
+}
+        
+item {
+    id: 90
+    name: 'SPAGHETTI'
+    category: 'FOOD'
+}
+        
+item {
+    id: 91
+    name: 'RICE'
+    category: 'FOOD'
+}
+        
+item {
+    id: 92
+    name: 'LONGANISA'
+    category: 'FOOD'
+}
+        
+item {
+    id: 93
+    name: 'SHRIMP'
+    category: 'FOOD'
+}
+        
+item {
+    id: 94
+    name: 'CRAB'
+    category: 'FOOD'
+}
+        
+item {
+    id: 95
+    name: 'HOT'
+    category: 'DRINK'
+}
+        
+item {
+    id: 96
+    name: 'COLD'
+    category: 'DRINK'
+}
+        
+item {
+    id: 97
+    name: 'JUICE'
+    category: 'DRINK'
+}
+        
+item {
+    id: 98
+    name: 'MILK'
+    category: 'DRINK'
+}
+        
+item {
+    id: 99
+    name: 'COFFEE'
+    category: 'DRINK'
+}
+        
+item {
+    id: 100
+    name: 'TEA'
+    category: 'DRINK'
+}
+        
+item {
+    id: 101
+    name: 'BEER'
+    category: 'DRINK'
+}
+        
+item {
+    id: 102
+    name: 'WINE'
+    category: 'DRINK'
+}
+        
+item {
+    id: 103
+    name: 'SUGAR'
+    category: 'DRINK'
+}
+        
+item {
+    id: 104
+    name: 'NO SUGAR'
+    category: 'DRINK'
+}
+        
